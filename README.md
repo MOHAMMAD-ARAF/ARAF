@@ -44,3 +44,4 @@ Strauss, E., Kristandl, G. and Quinn, M., 2015. The effects of cloud technology 
 Symonenko, S.V., Osadchyi, V.V., Sysoieva, S.O., Osadcha, K.P. and Azaryan, A.A., 2020. Cloud technologies for enhancing communication of IT-professionals.
 Willcocks, L., Venters, W. and Whitley, E.A., 2014. Moving to the Cloud Corporation: How to face the challenges and harness the potential of cloud computing (pp. I-XXXIV). Basingstoke: Palgrave Macmillan.
 Xu, X., 2013. Cloud technology for service-oriented manufacturing. In 20th ISPE International Conference on Concurrent Engineering (pp. 539-549). IOS Press.
+
