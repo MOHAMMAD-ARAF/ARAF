@@ -1,1 +1,1 @@
-# ARAF
+# Background of the enterprise
