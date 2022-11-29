@@ -38,10 +38,7 @@ DaSilva, C.M., Trkman, P., Desouza, K. and Lindič, J., 2013. Disruptive technol
 Devasena, C.L., 2014. Impact study of cloud computing on business development. Operations Research and Applications: An International Journal (ORAJ), 1(1), pp.1-7.
 Marston, S., Li, Z., Bandyopadhyay, S., Zhang, J. and Ghalsasi, A., 2011. Cloud computing—The business perspective. Decision support systems, 51(1), pp.176-189.
 Mudialba, P.J., 2016, February. The impact of cloud technology on the automation of businesses. In 2016 International Conference on Platform Technology and Service (PlatCon) (pp. 1-4). IEEE.
-Quinn, M., Strauss, E. and Kristandl, G., 2014. The effects of cloud technology on management accounting and business decision-making. Financial Management, 10(6), pp.1-12.
+Quinn, M., Strauss, E. and Kristandl, G., 2014. The effects of cloud technology on management accounting and business decision-making. Financial Management, 10(6), pp.1-12
 Ross, P. and Blumenstein, M., 2013. Cloud computing: the nexus of strategy and technology. Journal of Business Strategy.
 Strauss, E., Kristandl, G. and Quinn, M., 2015. The effects of cloud technology on management accounting and decision-making. Management and Financial Accounting Report, 10(6).
 Symonenko, S.V., Osadchyi, V.V., Sysoieva, S.O., Osadcha, K.P. and Azaryan, A.A., 2020. Cloud technologies for enhancing communication of IT-professionals.
-Willcocks, L., Venters, W. and Whitley, E.A., 2014. Moving to the Cloud Corporation: How to face the challenges and harness the potential of cloud computing (pp. I-XXXIV). Basingstoke: Palgrave Macmillan.
-Xu, X., 2013. Cloud technology for service-oriented manufacturing. In 20th ISPE International Conference on Concurrent Engineering (pp. 539-549). IOS Press.
-
